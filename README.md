@@ -1,2 +1,2 @@
 # HealthData
-HealthData {"BMI":"http://www.qhcftong.com/download2.html", "platform":"ios","HeartRate":"130"}
+HealthData {"BMI":"http://www.baidu.com", "platform":"ios","HeartRate":"130"}
